@@ -1,7 +1,6 @@
 # Minefield
-This is just an old Android game I made in Unity
+This is just an old game I made in Unity
 
-There was initially also a windows version, but I lost the project so I only have the android apk since it's on my phone.
 Hitherto unreleased because I never bothered too much with making it look really nice and I didn't want to release something that looks so much like an unfinished game. Regardless, I did finish all the functional parts I had planned to add, so here it is.
 
 The goal of the game is to drag the player circle around the screen to dodge all of the little enemy circles that spawn from the outer edges.
@@ -17,3 +16,7 @@ At certain time intervals, a green circle will appear on the screen. If the play
 The player's score is simply the time, in seconds, they survive without touching an enemy circle.
 
 Top 10 scores are stored both locally and online under the given player name entered on the menu screen.
+
+The windows and android versions are identical except for the fact that on windows, the player dot is controlled with the mouse and automatically follws your cursor position, while in the android version, the player is controlled by dragging it with your finger.
+
+Online High Scores are shared between versions.
